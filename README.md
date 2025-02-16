@@ -33,5 +33,5 @@
 ## 📚 Certifications  
 - 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
 - 🏅 **Microsoft Certified: Azure Administrator Associate (AZ-104)**  
-- 🏅 **AWS Certified Cloud Practitioner**  
+- 🏅 **AWS Certified Cloud Practitioner (CLF-C02)**  
 

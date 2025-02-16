@@ -1,6 +1,6 @@
-# Hi 👋, I'm Suraj Chopade  
+# Hi 👋, I'm Suraj
 
-🚀 **Senior Cloud Engineer | SRE | DevOps Enthusiast**  
+🚀 **Senior Cloud Engineer | SRE | DevOps and Automation Enthusiast**  
 
 - 🌱 I’m currently learning **Kubernetes & Python**  
 - 🔧 I work with **Azure | AWS | Terraform | Ansible | Windows | Linux**  
@@ -19,6 +19,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+
+### **🖥️ Scripting & Automation**  
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+
+### **🚀 DevOps & Containers**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+<!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  -->
 
 ## 🌍 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/suraj-chopade-112571183)  

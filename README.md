@@ -30,3 +30,8 @@
 | **🖥️ Scripting & Automation** | ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
 | **🚀 DevOps & Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
+## 📚 Certifications  
+
+- 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**  | ![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  |
+- 🏅 **Microsoft Certified: Azure Administrator Associate (AZ-104)**  | ![AZ-104](https://img.shields.io/badge/AZ--104-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  | 
+- 🏅 **AWS Certified Cloud Practitioner**  | ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  |

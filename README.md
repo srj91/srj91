@@ -31,7 +31,7 @@
 | **🚀 DevOps & Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ## 📚 Certifications  
+- 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+- 🏅 **Microsoft Certified: Azure Administrator Associate (AZ-104)**  
+- 🏅 **AWS Certified Cloud Practitioner**  
 
-- 🏅 **Microsoft Certified: Azure Fundamentals **  | ![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  |
-- 🏅 **Microsoft Certified: Azure Administrator Associate **  | ![AZ-104](https://img.shields.io/badge/AZ--104-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  | 
-- 🏅 **AWS Certified Cloud Practitioner **  | ![CLF-C02](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  |
